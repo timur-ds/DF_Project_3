@@ -13,3 +13,5 @@ ERROR: Required column 'reviewer_score' could not be found
 ERROR: Required column 'id' could not be found
 
 Поэтому будет прекреплённая ссылка только на Github
+
+В лоб копировать чужую работу не хочу. Мысль посещала скопировать, переделать и выдать за свою, но так делать не буду, буду делать свою, а потом по ходу разбираться.
